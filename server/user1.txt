@@ -1,0 +1,20 @@
+Fit - Mode :RunningDuration :27
+Meal - Meal :lunch Description :sandwich
+Fit - Mode :RunningDuration :27
+Meal - Meal :lunch Description :sandwich
+Fit - Mode :RunningDuration :27
+Meal - Meal :lunch Description :sandwich
+Fit - Mode :RunningDuration :27
+Meal - Meal :lunch Description :sandwich
+Fit - Mode :RunningDuration :27
+Meal - Meal :lunch Description :sandwich
+Fit - Mode :RunningDuration :27
+Meal - Meal :lunch Description :sandwich
+Fit - Mode :RunningDuration :27
+Meal - Meal :lunch Description :sandwich
+Fit - Mode :RunningDuration :27
+Meal - Meal :lunch Description :sandwich
+Fit - Mode :RunningDuration :27
+Meal - Meal :lunch Description :sandwich
+Fit - Mode :RunningDuration :27
+Meal - Meal :lunch Description :sandwich
